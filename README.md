@@ -1,4 +1,4 @@
-Collecting workspace information# submission-praktikum-GKV-E2
+# submission-praktikum-GKV-E2
 
 A comprehensive repository containing all practical assignments for the Graphics and Visual Computing (Grafika dan Komputasi Visual) course.
 

@@ -1,3 +1,9 @@
+/* Nama File : main.cpp
+	Deskripsi : Program untuk menampilkan objek 3D (kubus) dengan tekstur.
+	Pembuat   : Sulhan Fuadi (24060123130115)
+	Tanggal   : 19 Maret 2025
+*/
+
 #include <iostream> //library input/output
 #include <stdlib.h>
 
